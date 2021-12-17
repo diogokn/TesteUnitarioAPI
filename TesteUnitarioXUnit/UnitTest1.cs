@@ -7,6 +7,7 @@ namespace TesteUnitarioXUnit
     public class Calculadora
     {
         
+        //Teste com XUnit, estrutura mais evoluida e facil assimilação
 
         [Fact]
         public void TestarSoma()
